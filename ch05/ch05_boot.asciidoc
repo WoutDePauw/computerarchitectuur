@@ -1,6 +1,6 @@
 
 == Opstartroutine
-===	Geheugens voor opstartroutinge 
+===	Geheugens voor opstartroutine 
 
 Een processor kan bij het opstarten enkel spreken met geheugen. Om een besturingssysteem te laden op een harde schijf is dus een tussenstap nodig. 
 Dit geheugen mag uiteraard niet volatiel zijn.
